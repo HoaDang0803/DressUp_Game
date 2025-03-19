@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PKScene
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e7f7ad079d5869b48aa1df69bea051c1, type: 3}
+    - {fileID: 2800000, guid: 40c165b4503c1c24eba2174ec5485f94, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 62e7b4b0d3bca7c4e98e9ecc8f36813a: 21300000
+    - 9b6161b402ba7c44e9da08ea5dde1b33: 21300000
+    - 40c165b4503c1c24eba2174ec5485f94: 21300000
+    - 2caac12644bf38241acf20225790b753: 21300000
+    - 4021024807ba5d642a7e939826bc0139: 21300000
+    - 2948d24ea612f264fa1f9164d32d1256: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 62e7b4b0d3bca7c4e98e9ecc8f36813a, type: 3}
+  - {fileID: 21300000, guid: 9b6161b402ba7c44e9da08ea5dde1b33, type: 3}
+  - {fileID: 21300000, guid: 40c165b4503c1c24eba2174ec5485f94, type: 3}
+  - {fileID: 21300000, guid: 2caac12644bf38241acf20225790b753, type: 3}
+  - {fileID: 21300000, guid: 4021024807ba5d642a7e939826bc0139, type: 3}
+  - {fileID: 21300000, guid: 2948d24ea612f264fa1f9164d32d1256, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Party
+  - Travel
+  - 1418
+  - Casual
+  - Wedding
+  - Business
+  m_RenderDataMap: {}
+  m_Tag: PKScene
+  m_IsVariant: 0

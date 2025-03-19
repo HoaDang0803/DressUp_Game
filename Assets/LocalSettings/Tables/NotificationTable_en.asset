@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: NotificationTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 3fb9188f77fc9fc4b987bfdfc70958d2, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 209583644672
+    m_Localized: "Oh!\U0001F62F Our customers are waiting for you!\u2728"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280098283520
+    m_Localized: "Dress, shoes, styling, makeup - all you need for a perfect look!\U0001F48B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 299639545856
+    m_Localized: "Look! There is new bonus set of clothes!\U0001F45A \U0001F456"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316488065024
+    m_Localized: "Find the best hairstyle for our couples!\U0001F487 \u2728"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336293568512
+    m_Localized: "Can you make perfect outfit with new bonus items?\U0001F48E \U0001F495"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 375233486848
+    m_Localized: "Check our reward today! \U0001F609"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446930919424
+    m_Localized: Comeback! Our couples need you!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

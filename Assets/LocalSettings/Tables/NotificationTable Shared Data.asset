@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: NotificationTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: NotificationTable
+  m_TableCollectionNameGuidString: 3fb9188f77fc9fc4b987bfdfc70958d2
+  m_Entries:
+  - m_Id: 209583644672
+    m_Key: notification1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280098283520
+    m_Key: notification2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 299639545856
+    m_Key: notification3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316488065024
+    m_Key: notification4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336293568512
+    m_Key: notification5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 375233486848
+    m_Key: notification6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446930919424
+    m_Key: notification13
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3530922821876187142
+  references:
+    version: 2
+    RefIds:
+    - rid: 3530922821876187142
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1732850275574
