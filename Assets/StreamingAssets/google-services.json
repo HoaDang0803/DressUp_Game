@@ -1,14 +1,14 @@
 {
   "project_info": {
-    "project_number": "429159946272",
-    "project_id": "sm241016vlinderprincess",
-    "storage_bucket": "sm241016vlinderprincess.firebasestorage.app",
-    "firebase_url": "https://sm241016vlinderprincess-default-rtdb.firebaseio.com/"
+    "project_number": "project_number",
+    "project_id": "project_id",
+    "storage_bucket": "storage_bucket",
+    "firebase_url": "firebase_url/"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:429159946272:android:6afda938bae6765e61c445",
+        "mobilesdk_app_id": "mobilesdk_app_id",
         "android_client_info": {
           "package_name": "com.SM.VlinderPrincess"
         }
